@@ -75,4 +75,28 @@ Structure of the team decided was
 6. __Data Visualization__:- After proper arrangement of Data visualization was made so that non tech user can also understand performance via Visualizations.\
    Here different sheets were made showing different aspect and later a Dashboard showing Best 11 of World.
 
+### Insights:-
+According to data best 11 were
+1. Openers\
+   Jos Butler\
+   Rilee Rossouw
+   
+2. Middle Order or Anchor\
+   Virat Kohli\
+   Surya Kumar Yadav\
+   Glen Phillips
+
+3. Finisher\
+   Marcus Stoinis
+
+4. All Rounder or Lower Order Batsman\
+   Sikander Raza\
+   Shadab Khan
+
+5. Fast Bowlers\
+   Sam Curran\
+   Anriche Nortje\
+   Shaheen Shah Afridi
+
+   
    ### Note:- In repository all the codes used are compressed in Zip File for better organization of code folder.
